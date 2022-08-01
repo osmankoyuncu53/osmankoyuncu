@@ -1,4 +1,3 @@
-# osmankoyuncu
 ## Hi there , my name is Osman 👋
 
 I am a student interested in software. I am a student interested in software.
