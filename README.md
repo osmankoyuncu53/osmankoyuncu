@@ -12,7 +12,6 @@ Skills: C# / C / PHP / JAVA / PYTHON / REACT / ANGULAR / HTML / CSS Skills: HTML
 
 [linkedin]: https://www.linkedin.com/in/osmankoyuncu53/
 
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=osmankoyuncu53&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankoyuncu53&show_icons=true)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=atillakalay)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=osmankoyuncu53)
