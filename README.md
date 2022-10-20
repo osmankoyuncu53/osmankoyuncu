@@ -1,6 +1,6 @@
 ## Hi there , my name is Osman 👋
 
-I am a student interested in software. I am a student interested in software.
+I am a student interested in software.
 
 I am a student of İstanbul Gelisim University, Management Informations System. I am interested in Back-end and Front-end . I like to write code.
 
