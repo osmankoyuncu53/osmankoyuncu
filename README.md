@@ -2,7 +2,7 @@
 
 I am a student interested in software.
 
-I am a student of İstanbul Gelisim University, Management Informations System. I am interested in Back-end and Front-end . I like to write code.
+I am a graduate of Istanbul Gelişim University. I am interested in Back-end and Front-end . I like to write code.
 
 Skills: C# / C / PHP / JAVA / PYTHON / REACT / ANGULAR / HTML / CSS Skills: HTML / CSS
 
